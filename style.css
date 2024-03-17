@@ -1,0 +1,178 @@
+body{
+    background-color: rgb(19, 19, 61);
+
+}
+h1{
+    color: green;
+    text-align: center;
+    
+}
+
+.uber{
+    padding: 15px ;
+    background-color: black;
+    font-weight: 10px;
+    color: white;
+   margin: 15px;
+   
+   
+    
+}
+
+.amazon{
+    padding: 10px 60px 10px 60px;
+    background-color: rgb(228, 208, 97);
+    border: 0cm;
+    font-weight: bold;
+    border-radius: 20px;
+    margin: 15px;
+   
+   
+}
+
+.github{
+    padding: 15px 30px 15px 30px;
+    background-color: rgb(75, 154, 75);
+    border: 0cm;
+    font-weight: bold;
+    font-size: medium;
+    border-radius: 7px;
+    color: white;
+    margin: 15px 20px 15px 20px ;
+}
+.linkedin-1{
+    padding: 10px 30px 10px 30px;
+    background-color: rgb(56, 56, 182);
+    border: 0cm;
+    font-weight: bold;
+    border-radius: 20px;
+    margin: 10px 5px 10px 5px;
+    color: white;
+}
+.linkedin-2{
+    padding: 10px 30px 10px 30px;
+    background-color: white;
+    font-weight: bold;
+    border-radius: 20px;
+    color: blue;
+    border-width: 1px;
+    border-color: blue;
+    margin: 10px 5px 10px 0px;
+}
+.bootstrap-1{
+    padding: 15px 25px ;
+    background-color: blueviolet;
+    font-weight: 10px;
+    border: 0cap;
+    font-weight: bold;
+    color: rgb(197, 194, 194);
+    margin: 5px;
+}
+.bootstrap-2{
+    padding: 15px 25px ;
+    background-color: white;
+    font-weight: 10px;
+    border: .5px solid rgb(63, 60, 60);
+    font-weight: bold;
+    color: rgb(63, 60, 60);
+    margin: 5px;
+
+}
+.daraz{
+    padding: 5px 5px 5px 10px ;
+    background-color: rgba(232, 28, 28, 0.817);
+    font-weight: 10px;
+    color: white;
+    font-weight: bold;
+    border: 0px;
+    border-radius: 5px;
+   margin: 15px;
+}
+.bikroy{
+   padding: 10px;
+    background-color: rgb(228, 208, 97);
+    font-weight: 10px;
+    color: black;
+    font-weight: bold;
+    border: 0px;
+    border-radius: 3px;
+   margin: 15px;
+}
+.sample{
+    padding: 10px;
+    font-weight: 10px;
+     border: white;
+     border-width: 0.25px;
+    font-weight: bold;
+    border: 0px;
+    border-radius: 20px;
+   margin: 15px;
+   background-image: linear-gradient(to left,#2e86de,#5f27cd);
+
+}
+
+.line1{
+   
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 70%;
+    margin: auto;
+    
+
+
+  
+}
+.a{
+    margin: 20px;
+    background-color: white;
+    
+}
+.b{
+    margin: 20px;
+    background-color: white;
+    
+}
+.c{
+    margin: 20px;
+    background-color: white;
+    text-align: center;
+}
+.line2parent{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    width: 70%;
+    margin: auto;
+
+}
+.line2{
+    
+    margin: 20px;
+    background-color: white;
+    text-align: center;
+}
+.line3{
+    margin: 20px;
+    background-color: white;
+    text-align: center;
+}
+.line4{
+    
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin: auto;
+}
+.i{
+    margin: 20px;
+    background-color: blueviolet;
+}
+.j{
+    margin: 20px;
+    background-color: rgb(96, 165, 230);
+}
+.k{
+    margin: 20px;
+    background-color: white;
+}
